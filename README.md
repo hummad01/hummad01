@@ -1,4 +1,4 @@
-# Hi, I'm Hummad Siddiqui 👋
+# Hi, I'm Mohammad Hummad Siddiqui 👋
 
 ### Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
